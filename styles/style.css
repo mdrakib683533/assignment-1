@@ -187,3 +187,8 @@ main{
     margin-bottom: 4px;
 }
 
+/* opinion styles */
+.my-opinion{
+    display: flex;
+}
+
