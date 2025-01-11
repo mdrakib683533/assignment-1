@@ -293,9 +293,16 @@ main{
 .emails{
     height: 46px;
     width: 600px;
+    border: none;
+    border-radius: 8px 0 0 8px;
 }
 .subs-btn{
-    border-radius: none;
+    border-radius: 0 8px 8px 0;
+    height: 48px;
+    width: 139px;
+    background-color: rgba(0, 106, 80, 1);
+    color: white;
+    border: none;
 }
 /* bangladesh footer styles */
 .footer-bangladesh{
