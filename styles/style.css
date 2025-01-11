@@ -272,3 +272,37 @@ main{
     margin-right: 564px;
     
 }
+/* footer styles */
+.subscribe-box{
+    margin-top: 80px;
+    max-width:1280px;
+    height: 350px;
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+    background-color: rgba(198, 228, 214, 1);
+    border-radius: 24px;
+}
+.subscribe-title{
+    padding-top: 80px;
+}
+.emails{
+    height: 46px;
+    width: 600px;
+}
+.subs-btn{
+    border-radius: none;
+}
+/* bangladesh footer styles */
+.footer-bangladesh{
+    margin-top: 130px;
+}
+.bg-title{
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    color: rgba(14, 14, 14, 1);
+}
+.bg-images{
+    text-align: center;
+}
